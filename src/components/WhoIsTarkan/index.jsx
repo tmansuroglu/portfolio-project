@@ -19,12 +19,6 @@ const WhoIsTarkan = () => (
     </p>
 
     <p>
-      My personal life is anchored in a loving marriage, where I find unwavering
-      support and joy. I am happily married, and the bond I share with my
-      partner enriches every aspect of my life&apos;s journey.
-    </p>
-
-    <p>
       Balancing mental agility with physical well-being is crucial to me. From
       intensive phases in bodybuilding and powerlifting to adopting a more
       relaxed approach as a casual gym-goer, maintaining this equilibrium is
